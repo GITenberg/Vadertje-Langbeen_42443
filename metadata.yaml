@@ -1,0 +1,43 @@
+_repo: Vadertje-Langbeen_42443
+_version: 0.1.0
+alternative_title: Daddy-Long-Legs. Dutch
+covers:
+- cover_type: archival
+  image_path: 42443-h/images/coverth.jpg
+creator:
+  author:
+    agent_name: Webster, Jean
+    aliases:
+    - Webster, Alice Jean Chandler
+    - McKinney, Jean Webster
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '99'
+    url: http://www.gutenberg.org/2009/agents/99
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Webster
+description: Illustrated by the author.
+gutenberg_issued: '2013-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42443'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Philanthropists -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Universities and colleges -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Letters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Women authors -- Fiction'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Boarding schools -- Fiction'
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'Women college students -- Fiction'
+- !lcsh 'Young women -- Fiction'
+title: Vadertje Langbeen
+url: http://www.gutenberg.org/ebooks/42443
