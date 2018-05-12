@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/99
     wikipedia: http://en.wikipedia.org/wiki/Jean_Webster
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42443#Vadertje-Langbeen
 gutenberg_issued: '2013-03-31'
 gutenberg_type: Text
 identifiers:
